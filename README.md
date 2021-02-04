@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 💼 I'm a freelancer and student
-- 🔭 I’m currently working on Biometrics system for door unlocking
-- 🌱 I’m currently learning IoT
-- 👯 I’m looking to collaborate with open source projects
+- 💼 A freelancer 
+- 🔭 I’m currently working on Biometrics System for equipment authentication
+- 🌱 I’m currently learning Embeded Systems
+- 👯 Open for open source projects
 - 💬 Ask me about ...
 - 📫 How to contact me - You can email me at raveencaldera@gmail.com
 
