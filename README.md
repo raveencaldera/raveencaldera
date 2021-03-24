@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💼 A freelancer 
-- 🔭 I’m currently working on Biometrics System for equipment authentication
-- 🌱 I’m currently learning Embeded Systems
+- 🔭 I’m currently working on Gaining knowledge in wide area of Software Development 
+- 🌱 I’m currently learning Software Engineering
 - 👯 Open for open source projects
 - 💬 Ask me about ...
 - 📫 How to contact me - You can email me at raveencaldera@gmail.com
